@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Jul 2024 16:11:22 at https://website16.odoo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://website16.odoo.com/ -O1 "C:\My Web Sites\sirisha" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/technologies (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/facebook (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/twitter (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/linkedin (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/github (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/youtube (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/instagram (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/website/social/tiktok (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/"/web/image/website.s_carousel_default_image_1" (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/"/web/image/website.s_carousel_default_image_2" (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/"/web/image/website.s_carousel_default_image_3" (from https://website16.odoo.com/)
+16:12:21	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/'/web/image/website.s_parallax_default_image' (from https://website16.odoo.com/)
+16:12:22	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/"/website_slides/static/src/img/banner_default.svg" (from https://website16.odoo.com/slides)
+16:12:24	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/slides/"/website_slides/static/src/img/banner_default_all.svg" (from https://website16.odoo.com/slides/all)
+16:12:29	Error: 	"NOT FOUND" (404) at link https://website16.odoo.com/slides/all/tag/"/website_slides/static/src/img/banner_default_all.svg" (from https://website16.odoo.com/slides/all/tag/basic-1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 7 seconds : 229 links scanned, 213 files written (2603220 bytes overall) [1774911 bytes received at 26491 bytes/sec], 1691037 bytes transferred using HTTP compression in 32 files, ratio 20%, 80.3 requests per connection
+(15 errors, 0 warnings, 0 messages)
